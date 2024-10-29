@@ -2,7 +2,7 @@
 
 This project is a search engine built using LangChain and LangSmith. It allows you to query and retrieve information from various sources using natural language processing.
 
-![alt text](https://github.com/OnurAsimIlhan/rag-QA-with-Groq-LLama/blob/main/ss)
+![alt text](https://github.com/OnurAsimIlhan/search-engine-with-langchain/blob/main/searchengine.png)
 
 ## Features
 
