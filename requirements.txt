@@ -1,0 +1,10 @@
+langchain-community
+langchain-core
+arxiv
+ipykernel
+wikipedia
+langchain-huggingface
+faiss-gpu
+langchain_groq
+streamlit
+duckduckgo-search
